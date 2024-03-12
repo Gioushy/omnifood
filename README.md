@@ -1,4 +1,4 @@
-#OmniFood
+# OmniFood
 
 A responsive website for a fictional food delivery service or restaurant. The project would likely cover topics such as:
 HTML structure: Creating semantic markup for different sections of the website like header, navigation, hero section, features, testimonials, contact form, etc.
